@@ -2,6 +2,7 @@
 ## winter is coming
 **long long time ago**
 in _dark-dark_ forest
+<<<<<<< HEAD
 one little ~~unicorn~~ ~~bear~~...
 
 # **_Slenderman_**
@@ -20,3 +21,5 @@ habituellement émacié et totalement dépourvu de traits.
 :fearful:  :hear_no_evil:
 
 ________________
+
+one little ~~unicorn~~ ~~bear~~ wanted to grow corn to make pop-corn.
