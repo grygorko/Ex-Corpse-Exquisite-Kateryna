@@ -23,3 +23,7 @@ habituellement émacié et totalement dépourvu de traits.
 ________________
 
 one little ~~unicorn~~ ~~bear~~ wanted to grow corn to make pop-corn.
+
+Dans une galaxie très lointaine, deux patates s'affrontent.
+
+Elles s'affrontent pour la suprématie de la planète compote. Personne ne sait qui sortira vainqueur.
