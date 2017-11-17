@@ -88,3 +88,10 @@ Soooooooooooooooooooooooooooome body once told me the world is gonna roll me ,
 I ain't the sharpest tool in a sheeee-ed ,
 she was looking kinda dumb with her finger and her thumb,
 in the shape of an "L" on her forehead !
+
+
+## Little message to Kateryna
+
+## Hi, here is just __one contribution__ for your exercice.
+
+---------------end of bernard'message-------------
