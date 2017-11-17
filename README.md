@@ -14,7 +14,9 @@ Nous somme en 1444 dans la région de la foret Noir, par un temps de brume, une 
 Il alla déterrer ses bières allemandes, elles aussi. Il voulait boire un coup pour oublier. Mais que voulait-il oublier?
 
 
-MIKE WAS THERE
+MIKE WAS THERE 
+
+alixe too
 
 un deux trois petits canards
 
