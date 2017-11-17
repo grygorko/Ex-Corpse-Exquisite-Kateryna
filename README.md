@@ -1,6 +1,9 @@
 # Ex-Corpse-Exquisite-Kateryna
 ## winter is coming
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 42760c6001a7e5ad5ade3e672bd1e49e82132626
 
 Nous somme en 1444 dans la région de la foret Noir, par un temps de brume, une homme marche dans la foret sombre avec une pelle a la main. mais que fait cet homme ?
 
@@ -47,9 +50,28 @@ Dans une galaxie très lointaine, deux patates s'affrontent.
 
 Elles s'affrontent pour la suprématie de la planète compote. Personne ne sait qui sortira vainqueur.
 
+<<<<<<< HEAD
 *Il était une fois, dans un pays lointain, un groupe d'irréductibles* **__codeurs.__**
 
 Ils possédaient un **secret** jalousement gardé... **__La potion BeCode!__**
 
 La recette de sa préparation demeurait connue par seulement 2 individus du groupe, les 2 *Cydruis*, car cet ainsi qu'ils se faisaient appelées, **Emily** et **Alexandre.**
 >>>>>>> ajouts-Hippolyte
+=======
+probably the little kid above the dish her mom's made for that kid...
+
+or  maybe the dog who are so hungry looking a the kid's plate.
+
+or maybe it is just a dream, peut-être que la sardine en traversant l'arc-en-ciel tourvera le bonheur a travers une vie remplie de sushi...
+
+it's up to you....
+
+The ~~unicorn~~ tried to learn ukrenian and the only thing it can say was :"*Ya zataboï slijou*" (in phonetic).
+
+The Invincible Iron Man
+=======================
+
+
+**Iron Man** (*littéralement l'Homme de Fer*) est un super-héros de comic books créé en 1963 par **Stan Lee** pour **Marvel Comics**. Apparu pour la première fois dans Tales Of Suspense #39, la série était scénarisée par *Larry Lieber* et dessinée par Don Heck. À partir de 1968, le personnage a eu son propre comic book, *The Invincible Iron Man*, qui a été publié par **Marvel** jusqu'en 1996 avec le no 332.
+>>>>>>> ajout-JD
+>>>>>>> 42760c6001a7e5ad5ade3e672bd1e49e82132626
