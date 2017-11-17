@@ -1,14 +1,9 @@
 # Ex-Corpse-Exquisite-Kateryna
 ## winter is coming
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 42760c6001a7e5ad5ade3e672bd1e49e82132626
 
 Nous somme en 1444 dans la région de la foret Noir, par un temps de brume, une homme marche dans la foret sombre avec une pelle a la main. mais que fait cet homme ?
 
 J'ai déjà lu ce paragraphe chez quelqu'un...   
-=======
 Nous somme en 1444 dans la région de la foret Noir, par un temps de brume, une homme marche dans la foret sombre avec une pelle a la main. mais que fait cet homme ?   
 
 Il alla déterrer ses bières allemandes, elles aussi. Il voulait boire un coup pour oublier. Mais que voulait-il oublier?
@@ -21,16 +16,16 @@ un deux trois petits canards
 *HODOR* **HODOR** HODOR!
 
 Supercalifragilisticexpialidocious
-<<<<<<< HEAD
+
 
 * I’am Groot
 * I’am Groot
 * I’am Groot
-=======
-=======
+
+
 **long long time ago**
 in _dark-dark_ forest
-<<<<<<< HEAD
+
 one little ~~unicorn~~ ~~bear~~...
 
 # **_Slenderman_**
@@ -56,17 +51,12 @@ Dans une galaxie très lointaine, deux patates s'affrontent.
 
 Elles s'affrontent pour la suprématie de la planète compote. Personne ne sait qui sortira vainqueur.
 
-<<<<<<< HEAD
 *Il était une fois, dans un pays lointain, un groupe d'irréductibles* **__codeurs.__**
 
 Ils possédaient un **secret** jalousement gardé... **__La potion BeCode!__**
 
 La recette de sa préparation demeurait connue par seulement 2 individus du groupe, les 2 *Cydruis*, car cet ainsi qu'ils se faisaient appelées, **Emily** et **Alexandre.**
-<<<<<<< HEAD
-=======
->>>>>>> ajouts-Hippolyte
->>>>>>> origin/developpement
-=======
+
 probably the little kid above the dish her mom's made for that kid...
 
 or  maybe the dog who are so hungry looking a the kid's plate.
@@ -76,20 +66,12 @@ or maybe it is just a dream, peut-être que la sardine en traversant l'arc-en-ci
 it's up to you....
 
 The ~~unicorn~~ tried to learn ukrenian and the only thing it can say was :"*Ya zataboï slijou*" (in phonetic).
-<<<<<<< HEAD
- 
->>>>>>> ce1ee62b7925e2b563b249a81b34c9dd8dc678a4
-=======
 
 The Invincible Iron Man
 =======================
 
 
 **Iron Man** (*littéralement l'Homme de Fer*) est un super-héros de comic books créé en 1963 par **Stan Lee** pour **Marvel Comics**. Apparu pour la première fois dans Tales Of Suspense #39, la série était scénarisée par *Larry Lieber* et dessinée par Don Heck. À partir de 1968, le personnage a eu son propre comic book, *The Invincible Iron Man*, qui a été publié par **Marvel** jusqu'en 1996 avec le no 332.
->>>>>>> ajout-JD
->>>>>>> 42760c6001a7e5ad5ade3e672bd1e49e82132626
->>>>>>> c3e353532a104b812294f0c2634a2ec6128ba62a
-
 
 Soooooooooooooooooooooooooooome body once told me the world is gonna roll me ,
 I ain't the sharpest tool in a sheeee-ed ,
@@ -101,5 +83,4 @@ in the shape of an "L" on her forehead !
 
 ## Hi, here is just __one contribution__ for your exercice.
 
----------------end of bernard'message-------------
->>>>>>> origin/developpement
+---------------end of bernard'message------------
