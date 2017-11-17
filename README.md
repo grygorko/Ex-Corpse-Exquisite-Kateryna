@@ -35,3 +35,6 @@ or  maybe the dog who are so hungry looking a the kid's plate.
 or maybe it is just a dream, peut-être que la sardine en traversant l'arc-en-ciel tourvera le bonheur a travers une vie remplie de sushi...
 
 it's up to you....
+
+The ~~unicorn~~ tried to learn ukrenian and the only thing it can say was :"*Ya zataboï slijou*" (in phonetic).
+ 
