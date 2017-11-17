@@ -27,3 +27,9 @@ one little ~~unicorn~~ ~~bear~~ wanted to grow corn to make pop-corn.
 Dans une galaxie très lointaine, deux patates s'affrontent.
 
 Elles s'affrontent pour la suprématie de la planète compote. Personne ne sait qui sortira vainqueur.
+
+*Il était une fois, dans un pays lointain, un groupe d'irréductibles* **__codeurs.__**
+
+Ils possédaient un **secret** jalousement gardé... **__La potion BeCode!__**
+
+La recette de sa préparation demeurait connue par seulement 2 individus du groupe, les 2 *Cydruis*, car cet ainsi qu'ils se faisaient appelées, **Emily** et **Alexandre.**
