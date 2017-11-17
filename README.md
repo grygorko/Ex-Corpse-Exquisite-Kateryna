@@ -27,3 +27,11 @@ one little ~~unicorn~~ ~~bear~~ wanted to grow corn to make pop-corn.
 Dans une galaxie très lointaine, deux patates s'affrontent.
 
 Elles s'affrontent pour la suprématie de la planète compote. Personne ne sait qui sortira vainqueur.
+
+probably the little kid above the dish her mom's made for that kid...
+
+or  maybe the dog who are so hungry looking a the kid's plate.
+
+or maybe it is just a dream, peut-être que la sardine en traversant l'arc-en-ciel tourvera le bonheur a travers une vie remplie de sushi...
+
+it's up to you....
