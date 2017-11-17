@@ -95,3 +95,6 @@ in the shape of an "L" on her forehead !
 ## Hi, here is just __one contribution__ for your exercice.
 
 ---------------end of bernard'message-------------
+
+
+Vybatchte, ale ïa ne hovoru po-oukraïnsky.
