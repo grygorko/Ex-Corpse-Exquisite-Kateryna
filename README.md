@@ -82,3 +82,9 @@ The Invincible Iron Man
 >>>>>>> ajout-JD
 >>>>>>> 42760c6001a7e5ad5ade3e672bd1e49e82132626
 >>>>>>> c3e353532a104b812294f0c2634a2ec6128ba62a
+
+
+Soooooooooooooooooooooooooooome body once told me the world is gonna roll me ,
+I ain't the sharpest tool in a sheeee-ed ,
+she was looking kinda dumb with her finger and her thumb,
+in the shape of an "L" on her forehead !
